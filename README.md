@@ -1,5 +1,7 @@
 # Flora Canou's Temperaments
 
+Ideas welcome!
+
 The letter in the filename marks the note to start with. _They are identical_ in terms of relative pitches. You might need different files by case of application. 
 
 Whenever the application permits, it is recommended to use the file starting with D. 
@@ -7,12 +9,16 @@ Whenever the application permits, it is recommended to use the file starting wit
 ## Canou I Temperament
 For 12edo
 
+![Canou1](/images/canou1.png)
+
 Generators: 
 * P5 - 1/5 synt. comma
 * P5 - 1/12 Pyth. comma
 
 ## Canou II Temperament
 For 19edo
+
+![Canou2](/images/canou2.png)
 
 Generators:
 * P5 - 2/7 synt. comma
