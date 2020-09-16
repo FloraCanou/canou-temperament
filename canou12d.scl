@@ -1,6 +1,6 @@
-! canou1d.scl
+! canou12d.scl
 !
-Flora Canou's first temperament, for 12edo, starting with D = 0
+Canou XII, Flora Canou's well temperament based on 12-et, starting with D = 0
  12
 !
  102.346257054
@@ -12,6 +12,6 @@ Flora Canou's first temperament, for 12edo, starting with D = 0
  697.653742946
  804.692514108
  895.307485892
- 1004.69251411
- 1097.65374295
+ 1004.692514108
+ 1097.653742956
  1200.
